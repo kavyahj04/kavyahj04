@@ -2,7 +2,7 @@
 
 ### Full-Stack AI Engineer | LLM Integration | MS Computer Science @ Binghamton University
 
-I build intelligent, production-ready systems at the intersection of **AI engineering** and **full-stack development** — from LLM-powered backends to responsive, real-time frontends.
+I build intelligent, production-ready systems at the intersection of **AI engineering** and **full-stack development** from LLM-powered backends to responsive, real-time frontends.
 
 Currently focused on: **RAG pipelines**, **LLM agents**, **AI voice systems**, and **full-stack AI products**.
 
